@@ -1,0 +1,1 @@
+final String APPBAR = "assets/images/appbar.gif";
